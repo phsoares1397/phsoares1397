@@ -5,3 +5,5 @@ Apesar de não ter participado de grandes projetos ou ter me aprofundado nessas 
 Não tenho experiência profissional ainda, porém, mantenho uma plataforma para resolução de questões de concursos, ENEM e vestibulares onde uso as principais tecnologias de Front-end (HTML, CSS, Javascript), no Back-end uso CentOS, GoLang e MariaDB (MySQL) entre outras com menor participação. Os Apps (Android e iOS) ainda estão em desenvolvimento e tenho preferência pelas linguagens nativas de cada sistema mobile (Java Android e Swift).
 
 LinkedIn: https://www.linkedin.com/in/pedro-soares-b4500a263/
+
+Meu principal projeto: https://www.bizout.com.br
